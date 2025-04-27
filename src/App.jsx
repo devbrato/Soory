@@ -16,11 +16,11 @@ const App = () => {
             <div className="text">
               <strong>Dear Dumbooo</strong>
               <p>
-              I hate it when we fight. I hate it even more when I realise that it was all my fault. I am so sorry. I love you so much. Please forgive me!
+             When you are feeling better again, you can trade the chicken and ice cream for dinner Whenever You Want!
               <center>
-                <p>soory😘</p>
-              <p>soory😘</p>
-              <p>and soory😘.....</p>
+                <p>Get Well Soon🤗</p>
+              <p>Get Well Soon🤗</p>
+              <p>Get Well Soon😘.....</p>
               </center>
               </p>
             </div>
