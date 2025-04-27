@@ -14,9 +14,9 @@ const App = () => {
         <div className="envelope">
           <div className="letter">
             <div className="text">
-              <strong>Dear Dumbooo</strong>
+              <strong>Dear Dumdum</strong>
               <p>
-             When you are feeling better again, you can trade the chicken and ice cream for dinner Whenever You Want!
+             When you are feeling better again, you can trade the chicken and ice cream for dinner whenever you want!
               <center>
                 <p>Get Well Soon🤗</p>
               <p>Get Well Soon🤗</p>
